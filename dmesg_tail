@@ -1,0 +1,10 @@
+[   29.787801] Bluetooth: RFCOMM ver 1.11
+[   30.913617] vboxdrv: module verification failed: signature and/or required key missing - tainting kernel
+[   30.923614] vboxdrv: Found 2 processor cores
+[   30.942680] vboxdrv: TSC mode is Invariant, tentative frequency 1599946780 Hz
+[   30.942687] vboxdrv: Successfully loaded version 5.0.18_Ubuntu (interface 0x00240000)
+[   30.956912] VBoxNetFlt: Successfully started.
+[   30.971462] VBoxNetAdp: Successfully started.
+[   30.987135] VBoxPciLinuxInit
+[   30.991962] vboxpci: IOMMU not found (not registered)
+[ 2687.464152] perf interrupt took too long (2506 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
